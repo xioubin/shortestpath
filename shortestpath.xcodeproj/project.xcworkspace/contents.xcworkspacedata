@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../shortestpath/dictionary.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../shortestpath/input_500.txt">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
